@@ -24,7 +24,7 @@ module tt_um_example (
   // List all unused inputs to prevent warnings
   //wire _unused = &{ena, clk, rst_n, 1'b0};
 
-    tt_um_clk_and top(
+	Clk_and top(
 		.clk(clk),
 		.reset(rst_n),
 		.a(ui_in[7:0]),
