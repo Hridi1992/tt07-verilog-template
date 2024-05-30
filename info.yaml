@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "tt_andgate"      # Project title
+  title:        "tt_um_andgate"      # Project title
   author:       "Hridi Prova Debnath"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "and gate"      # One line description of what your project does
