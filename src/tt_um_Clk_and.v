@@ -2,7 +2,7 @@
 A simple add in Verilog, TOP. 
 */
 
-module Clk_and(
+module tt_um_Clk_and(
   input clk,
   input reset,
   input [7:0] a, b,
