@@ -39,8 +39,8 @@ Set the input values you want to test
 dut.ui_in.value = 20
 dut.uio_in.value = 30
 
-# The following assersion is just an example of how to check the output values.
-# Change it to match the actual expected output of your module:
+The following assersion is just an example of how to check the output values.
+Change it to match the actual expected output of your module:
 assert dut.uo_out.value == 20
 
 
